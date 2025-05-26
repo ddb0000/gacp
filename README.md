@@ -1,4 +1,4 @@
-shortcut
+# shortcut
 
 ---
 
@@ -9,3 +9,9 @@ shortcut
 `gacp`
 
 `gacp blablabla`
+
+---
+
+## auto setup remote
+
+`git config --global push.autoSetupRemote true`
