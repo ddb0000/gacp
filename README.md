@@ -4,7 +4,7 @@ shortcut
 
 `chmod +x gacp.sh`
 
-`source ./gacp.sh`s
+`source ./gacp.sh`
 
 `gacp`
 
