@@ -5,7 +5,7 @@ gacp() {
     local message="${1:-auto}"
     local current_date_time
     current_date_time=$(date +"%d-%m-%Y-%H-%M")
-    local commit_message="${current_date_time}-${message}"
+    local commit_message="${message}"
 
     echo "[RUN] 'git add .'"
     git add .

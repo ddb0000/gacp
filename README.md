@@ -15,3 +15,8 @@
 ## auto setup remote
 
 `git config --global push.autoSetupRemote true`
+
+
+## todo
+
+- add fetch/pull & more checks

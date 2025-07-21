@@ -11,7 +11,7 @@ function gacp {
 
         $currentDateTime = Get-Date -Format "dd-MM-yyyy-HH-mm"
 
-        $commitMessage = "$($currentDateTime)-$($Message)"
+        $commitMessage = "$($Message)"
 
 
         Write-Host "[RUN] 'git add .'"
