@@ -1,4 +1,5 @@
 # shortcut
+add to your bashrc or ps or whatever
 
 ---
 
